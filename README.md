@@ -27,8 +27,6 @@
  ✨ &emsp; B.Tech student & Tech enthusiast passionate about solving real-world problems<br/><br/>
  🧠 &emsp; Exploring Machine Learning, Full Stack Development & Hackathons<br/><br/>
  👨‍💻 &emsp; Built multiple disease prediction systems, AI-based resume platforms & more<br/><br/>
- 💼 &emsp; Core Team @ Echelon Dev Society — Operations & Logistics<br/><br/>
- 🚀 &emsp; Organized Dev Hacks 2025 — a multi-domain hackathon with 30k+ prize pool<br/><br/>
  📧 &emsp; Reach me at: devanshjagtap@gmail.com<br/><br/>
 </p>
 
@@ -37,7 +35,7 @@
 <br/>
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=devanshjagtap&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=devansh29092004&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
 </p>
 
 <br/>
