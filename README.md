@@ -6,13 +6,13 @@
 </h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/devanshjagtap/" target="_blank">
+  <a href="https://www.linkedin.com/in/devansh-jagtap/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" />
   </a>
-  <a href="https://twitter.com/devanshcodes" target="_blank">
+  <a href="https://x.com/devansh_jagtap" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" alt="twitter" />
   </a>
-  <a href="https://www.instagram.com/devansh_jagtap_/" target="_blank">
+  <a href="https://www.instagram.com/jagtap_devansh/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" alt="instagram" />
   </a>  
 </p>
