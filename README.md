@@ -1,16 +1,28 @@
-## Hi there 👋
+## 👋 Hey there! I'm Devansh Jagtap
 
-<!--
-**Devansh29092004/Devansh29092004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a B.Tech student passionate about building impactful tech projects and solving real-world problems with code.  
+🚀 Currently exploring the full stack — from frontend with React and Next.js to backend with Node.js, Prisma, and databases.  
+🧠 I also dive deep into Machine Learning, with hands-on experience in disease prediction, image classification, and more.     
+📱 Built a video-based AI resume screening platform to assist HRs with smarter shortlisting.  
+💡 Currently building a multi-disease prediction platform with secure authentication and Google login integration.
 
-Here are some ideas to get you started:
+### 🧰 Tech Stack
+- Languages: Python, JavaScript, SQL,C++
+- Frameworks: React.js, Next.js, Node.js, Express,Tailwind Css
+- Tools: Streamlit, Prisma, Git/GitHub, Firebase
+- ML Libraries: scikit-learn, pandas, numpy, matplotlib
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Interests
+- AI/ML & Deep Learning
+- Full-Stack Web Development
+- Hackathons & Tech Events
+- Building real-world problem-solving apps
+
+### 📫 Let’s connect!
+- [LinkedIn](https://www.linkedin.com/in/devanshjagtap)  
+- [GitHub](https://github.com/devanshjagtap)  
+- Email: devanshjagtap2@gmail.com
+
+---
+
+⭐ Always open to collaboration and learning — feel free to reach out!
