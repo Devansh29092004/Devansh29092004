@@ -1,28 +1,80 @@
-## 👋 Hey there! I'm Devansh Jagtap
+<!-- Intro  -->
+<h3 align="center">
+        <samp>&gt; Hey There!, I am
+                <b>Devansh Jagtap</b>
+        </samp>
+</h3>
 
-🎓 I'm a B.Tech student passionate about building impactful tech projects and solving real-world problems with code.  
-🚀 Currently exploring the full stack — from frontend with React and Next.js to backend with Node.js, Prisma, and databases.  
-🧠 I also dive deep into Machine Learning, with hands-on experience in disease prediction, image classification, and more.     
-📱 Built a video-based AI resume screening platform to assist HRs with smarter shortlisting.  
-💡 Currently building a multi-disease prediction platform with secure authentication and Google login integration.
+<p align="center">
+  <a href="https://www.linkedin.com/in/devanshjagtap/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" />
+  </a>
+  <a href="https://twitter.com/devanshcodes" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" alt="twitter" />
+  </a>
+  <a href="https://www.instagram.com/devansh_jagtap_/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="instagram" />
+  </a>  
+</p>
+<br />
 
-### 🧰 Tech Stack
-- Languages: Python, JavaScript, SQL,C++
-- Frameworks: React.js, Next.js, Node.js, Express,Tailwind Css
-- Tools: Streamlit, Prisma, Git/GitHub, Firebase
-- ML Libraries: scikit-learn, pandas, numpy, matplotlib
+<!-- About Section -->
+# About me
 
-### 📌 Interests
-- AI/ML & Deep Learning
-- Full-Stack Web Development
-- Hackathons & Tech Events
-- Building real-world problem-solving apps
+<p>
+ <img align="right" width="350" src="https://raw.githubusercontent.com/ashutosh1919/ashutosh1919/master/assets/programmer.gif" alt="Coding gif" />
+  
+ ✨ &emsp; B.Tech student & Tech enthusiast passionate about solving real-world problems<br/><br/>
+ 🧠 &emsp; Exploring Machine Learning, Full Stack Development & Hackathons<br/><br/>
+ 👨‍💻 &emsp; Built multiple disease prediction systems, AI-based resume platforms & more<br/><br/>
+ 💼 &emsp; Core Team @ Echelon Dev Society — Operations & Logistics<br/><br/>
+ 🚀 &emsp; Organized Dev Hacks 2025 — a multi-domain hackathon with 30k+ prize pool<br/><br/>
+ 📧 &emsp; Reach me at: devanshjagtap@gmail.com<br/><br/>
+</p>
 
-### 📫 Let’s connect!
-- [LinkedIn](https://www.linkedin.com/in/devanshjagtap)  
-- [GitHub](https://github.com/devanshjagtap)  
-- Email: devanshjagtap2@gmail.com
+<br/>
+<hr/>
+<br/>
+
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=devanshjagtap&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
+</p>
+
+<br/>
+
+## 🚀 Languages and Tools
+
+- 🧠 Machine Learning & Backend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,sklearn,flask,nodejs,express" />
+  </a>
+</p>
+
+- 🌐 Frontend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,react,nextjs,tailwind,html,css" />
+  </a>
+</p>
+
+- 🗄️ Database & Auth
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=firebase,mysql,prisma" />
+  </a>
+</p>
+
+- 🧰 Tools & Platforms
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,notion,postman,vercel" />
+  </a>
+</p>
+
+<br/>
 
 ---
-
-⭐ Always open to collaboration and learning — feel free to reach out!
+<p align="center">
+  <samp>⚡ Always building, always learning. Let’s create something amazing!</samp>
+</p>
