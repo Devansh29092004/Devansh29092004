@@ -27,12 +27,11 @@
 ### 👨‍💻 About Me
 
 - 🎓 Final year B.Tech student passionate about solving real-world problems using tech.
-- 🛠 Core Team @ Echelon Dev Society – Logistics and Operations.
 - 🧠 Currently learning Next.js, Prisma, and scaling full stack apps.
 - 🧪 Building **Multiple Disease Prediction App** with ML & AI – using Streamlit, FastAPI, and Next.js.
 - 👨‍🏫 Mentoring juniors in web dev, ML & full stack fundamentals.
 - 📢 Public speaker at Dev Hacks 2025 and other campus events.
-- ☕️ Always up for collaborations – ping me on [Twitter](https://twitter.com/devanshcodes) or [LinkedIn](https://www.linkedin.com/in/devanshjagtap)!
+- ☕️ Always up for collaborations – ping me on [Twitter](https://twitter.com/devansh_jagtap) or [LinkedIn](https://www.linkedin.com/in/devanshjagtap)!
 
 ## 🚀 Languages and Tools  - 🧠 Machine Learning & Backend <p align="left">   <a href="https://skillicons.dev">     <img src="https://skillicons.dev/icons?i=py,sklearn,flask,nodejs,express" />   </a> </p>  - 🌐 Frontend <p align="left">   <a href="https://skillicons.dev">     <img src="https://skillicons.dev/icons?i=js,react,nextjs,tailwind,html,css" />   </a> </p>  - 🗄️ Database & Auth <p align="left">   <a href="https://skillicons.dev">     <img src="https://skillicons.dev/icons?i=firebase,mysql,prisma" />   </a> </p>  - 🧰 Tools & Platforms <p align="left">   <a href="https://skillicons.dev">     <img src="https://skillicons.dev/icons?i=git,github,vscode,notion,postman,vercel" />   </a> </p>  <br/>  --- <p align="center">   <samp>⚡ Always building, always learning. Let’s create something amazing!</samp> </p>
 
